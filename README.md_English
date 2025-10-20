@@ -1,0 +1,21 @@
+🧠 Project Overview
+
+A simple experimental project designed to demonstrate the concept of user login and authentication using the Flask framework in Python.
+Project Idea
+
+Allows users to log in through an interactive web interface,
+verifying the username and password locally without using any external database.
+Tools & Technologies
+	•	Python
+	•	Flask
+	•	HTML
+	•	CSS (optional)
+  How It Works
+	1.	The user opens the main login page.
+	2.	Enters a username and password.
+	3.	The system validates the credentials.
+	4.	If successful, the user is redirected to a “Welcome” page.
+  Objective
+
+To practically apply the Authentication concept
+and experiment with connecting the Front-end and Back-end components.
